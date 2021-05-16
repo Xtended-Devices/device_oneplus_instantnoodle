@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_instantnoodle.mk
+    $(LOCAL_DIR)/xtended_instantnoodle.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_instantnoodle-user \
-    lineage_instantnoodle-userdebug \
-    lineage_instantnoodle-eng
+    xtended_instantnoodle-user \
+    xtended_instantnoodle-userdebug \
+    xtended_instantnoodle-eng
